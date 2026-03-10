@@ -1,6 +1,7 @@
 ---
 title: "Sampling spatial-temporal attention network for traffic forecasting"
 collection: publications
+category: conferences
 permalink: /publication/2023-08-09-sampling-spatial-temporal
 excerpt: "An attention-based network utilizing sampling strategies for efficient spatial-temporal traffic forecasting."
 date: 2023-08-09

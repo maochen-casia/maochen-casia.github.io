@@ -1,6 +1,7 @@
 ---
 title: "Temporal-aware structure-semantic-coupled graph network for traffic forecasting"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-07-01-temporal-aware
 excerpt: "A novel graph network approach for traffic forecasting by coupling structural and semantic information."
 date: 2024-07-01

@@ -1,6 +1,7 @@
 ---
 title: "MFGCN: Multi-faceted spatial and temporal specific graph convolutional network for traffic-flow forecasting"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-12-20-mfgcn
 excerpt: "A multi-faceted GCN model designed to capture specific spatial and temporal dependencies in traffic flow."
 date: 2024-02-01
