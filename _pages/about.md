@@ -12,14 +12,15 @@ I am a Master's student at the **Institute of Automation, Chinese Academy of Sci
 Before joining CASIA, I completed my Bachelor’s degree in Computer Science and Technology at **Beihang University** in 2024.
 
 ### Research Interests
-My research lies at the intersection of **Graph Learning**, **Multimodal Learning**, and **Computer Vision**. I am particularly interested in developing models that can effectively bridge structured data (graphs) with unstructured data (like images and text) to solve complex real-world challenges, such as traffic forecasting and intelligent retrieval.
+My research lies at the intersection of **Graph Learning**, **Multimodal Learning**, and **Computer Vision**. I am particularly interested in developing models that can effectively bridge structured data (graphs) with unstructured data to solve complex real-world challenges.
 
 ### Publications
 I have been fortunate to contribute to research in traffic forecasting and graph-based multimodal alignment. Some of my recent work includes:
+*   **Fine-Grained Multimodal Alignment for Image-Text Retrieval via Graph Learning** (IJCV, 2026)
 *   **Temporal-aware structure-semantic-coupled graph network for traffic forecasting** (Information Fusion, 2024)
 *   **MFGCN: Multi-faceted spatial and temporal specific graph convolutional network for traffic-flow forecasting** (Knowledge-Based Systems, 2024)
 *   **Sampling spatial-temporal attention network for traffic forecasting** (KSEM, 2023)
-*   **Fine-Grained Multimodal Alignment for Image-Text Retrieval via Graph Learning** (IJCV, 2026)
+
 
 ### Get in Touch
 If you are interested in my research or would like to discuss potential collaborations, feel free to reach out via email at **chenmao2024@ia.ac.cn**. 
