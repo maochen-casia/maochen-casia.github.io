@@ -1,8 +1,10 @@
 ---
-permalink: /about/
+permalink: /
 title: "About Me"
-excerpt: "About me"
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 I am a Master's student at the **Institute of Automation, Chinese Academy of Sciences (CASIA)**, where I am supervised by **Dr. Xu Yang**. 
