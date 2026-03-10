@@ -24,13 +24,13 @@ repository               : "maochen-casia/maochen-casia.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Mao Chen"
+  pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Institute of Automation, Chinese Academy of Sciences"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "chenmao2024@ia.ac.cn" 
 
   # Academic websites
   academia         : # URL
