@@ -9,10 +9,10 @@ redirect_from:
 
 I am a Master's student at the **Institute of Automation, Chinese Academy of Sciences (CASIA)**, where I am supervised by **Dr. Xu Yang**. 
 
-Before joining CASIA, I completed my Bachelor’s degree in Computer Science and Technology at **Beihang University** in 2024.
+Before joining CASIA, I completed my Bachelor’s degree in Computer Science and Technology at **Beihang University （BUAA）** in 2024.
 
 ### Research Interests
-My research lies at the intersection of **Graph Learning**, **Multimodal Learning**, and **Computer Vision**. I am particularly interested in developing models that can effectively bridge structured data (graphs) with unstructured data to solve complex real-world challenges.
+My research lies at the intersection of **Graph Learning** and **Computer Vision**. I am particularly interested in developing models that can effectively bridge structured graphs with unstructured data to solve complex real-world challenges.
 
 ### Publications
 I have been fortunate to contribute to research in traffic forecasting and graph-based multimodal alignment. Some of my recent work includes:
