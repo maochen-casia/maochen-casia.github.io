@@ -1,3 +1,10 @@
+---
+title: "CV"
+permalink: /cv/
+layout: single
+author_profile: true
+---
+
 # Mao Chen's CV
 
 - Email: [chenmao2024@ia.ac.cn](mailto:chenmao2024@ia.ac.cn)
