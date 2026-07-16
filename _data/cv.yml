@@ -4,7 +4,7 @@ cv:
   email: chenmao2024@ia.ac.cn
   location: Beijing, China
   image: ""
-  summary: My research focuses on structured representation learning for visual and multimodal data, with an emphasis on structural reasoning across time, modalities, and viewpoints.
+  summary: I am currently an M.S. student at the Institute of Automation, Chinese Academy of Sciences (CASIA). My research focuses on structured representation learning for visual and multimodal data, with an emphasis on structural reasoning across time, modalities, and viewpoints.
 
   social_networks:
     - network: GitHub
@@ -116,7 +116,7 @@ cv:
         releaseDate: 2023-08
         url: https://doi.org/10.1007/978-3-031-40286-9_11
 
-    Research Experience:
+    Experience:
       - company: CASIA
         position: Learning Semantics, Structure, and Geometry from Cross-View Localization
         location: Beijing, China
@@ -171,27 +171,30 @@ cv:
         icon: fa-solid fa-tag
         keywords: Structured Representation Learning, Computer Vision, Multimodal Learning, Cross-View Localization, Graph Neural Networks, Spatiotemporal Forecasting
 
-    Awards & Honors:
+    Awards:
       - title: Outstanding Graduate of Beijing
         date: 2024
         awarder: Beijing
         summary: Top 5%.
 
       - title: Academic Excellence Scholarship
-        date: 2021-2023
+        date: 2023
         awarder: Beihang University
+        summary: Awarded from 2021 to 2023.
 
       - title: Innovation and Entrepreneurship Scholarship
         date: 2023
         awarder: Beihang University
 
       - title: Student Leadership and Service Scholarship
-        date: 2021-2023
+        date: 2023
         awarder: Beihang University
+        summary: Awarded from 2021 to 2023.
 
       - title: University Merit Student
-        date: 2021-2023
+        date: 2023
         awarder: Beihang University
+        summary: Awarded from 2021 to 2023.
 
     References:
       - name: Prof. Xu Yang
