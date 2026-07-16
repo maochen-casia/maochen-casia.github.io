@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Institute of Automation, Chinese Academy of Sciences (CASIA)
 
