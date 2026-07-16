@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The first-authored paper, "[More Than Where You Are: Learning Semantics, Structure, and Geometry from Cross-View Localization](https://arxiv.org/abs/2607.12429)," is now available on arXiv and under review for IEEE TPAMI.
+The first-authored paper, "[More Than Where You Are: Learning Semantics, Structure, and Geometry from Cross-View Localization](https://arxiv.org/abs/2607.12429)," is now available on arXiv and **under review for IEEE TPAMI**.

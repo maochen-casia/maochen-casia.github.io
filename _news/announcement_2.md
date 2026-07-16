@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The co-authored paper, "[Fusion of Depth and Semantics for Probabilistic Floorplan Localization](https://openaccess.thecvf.com/content/CVPR2026/papers/Ye_Fusion_of_Depth_and_Semantics_for_Probabilistic_Floorplan_Localization_CVPR_2026_paper.pdf)," has been accepted to CVPR 2026! :tada:
+The co-authored paper, "[Fusion of Depth and Semantics for Probabilistic Floorplan Localization](https://openaccess.thecvf.com/content/CVPR2026/papers/Ye_Fusion_of_Depth_and_Semantics_for_Probabilistic_Floorplan_Localization_CVPR_2026_paper.pdf)," has been accepted to **CVPR 2026**! :tada:
