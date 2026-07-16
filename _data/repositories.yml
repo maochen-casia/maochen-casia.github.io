@@ -1,14 +1,30 @@
 github_user: maochen-casia
 
 repositories:
-  - name: GFGA
+  - name: maochen-casia/gfga
     repo: maochen-casia/gfga
-    description: Fine-Grained Multimodal Alignment for Image-Text Retrieval via Graph Learning.
+    description: "[IJCV] Fine-Grained Multimodal Alignment for Image-Text Retrieval via Graph Learning"
+    language: Python
+    stars: 8
+    forks: 1
 
-  - name: WARG
+  - name: maochen-casia/warg
     repo: maochen-casia/warg
     description: Globally Localizing Lunar Rover in Pixels via Graph Alignment.
+    language: Python
+    stars: 2
+    forks: 0
 
-  - name: CROSS
+  - name: maochen-casia/CROSS
     repo: maochen-casia/CROSS
     description: Learning Semantics, Structure, and Geometry from Cross-View Localization.
+    language: Python
+    stars: 1
+    forks: 0
+
+  - name: ChenMao20374042/TASSGN
+    repo: ChenMao20374042/TASSGN
+    description: Temporal-Aware Structure-Semantic-Coupled Graph Network for Traffic Forecasting.
+    language: Python
+    stars: 12
+    forks: 2

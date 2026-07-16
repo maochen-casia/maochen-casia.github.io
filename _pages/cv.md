@@ -1,19 +1,35 @@
 ---
 layout: page
 permalink: /cv/
-title: CV
+title: Mao Chen's CV
 nav: true
 nav_order: 5
-description: Curriculum vitae of Mao Chen.
+description: 
 toc:
   sidebar: left
 ---
 
-<div class="mb-4">
-  <a class="btn btn-sm z-depth-0" href="{{ '/assets/pdf/Mao_Chen_CV.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Download PDF</a>
-</div>
-
 <style>
+  .cv-pdf-link {
+    float: right;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.75rem;
+    height: 2.75rem;
+    margin-top: -4.2rem;
+    border: 1px solid var(--global-divider-color);
+    border-radius: 4px;
+    color: var(--global-theme-color);
+    font-size: 1.65rem;
+    text-decoration: none;
+  }
+
+  .cv-pdf-link:hover {
+    color: var(--global-theme-color);
+    text-decoration: none;
+  }
+
   .cv-card {
     border: 1px solid var(--global-divider-color);
     border-radius: 4px;
@@ -55,7 +71,17 @@ toc:
     color: var(--global-theme-color);
     font-weight: 700;
   }
+
+  @media (max-width: 576px) {
+    .cv-pdf-link {
+      margin-top: -3.7rem;
+    }
+  }
 </style>
+
+<a class="cv-pdf-link" href="{{ '/assets/pdf/Mao_Chen_CV.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer" aria-label="Download PDF" title="Download PDF">
+  <i class="fa-regular fa-file-pdf" aria-hidden="true"></i>
+</a>
 
 {% for section in site.data.cv %}
 <section class="cv-card">
