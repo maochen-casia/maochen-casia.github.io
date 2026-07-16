@@ -169,8 +169,7 @@ cv:
     Interests:
       - name: Research Interests
         icon: fa-solid fa-tag
-        keywords: Structured Representation Learning, Computer Vision, Multimodal Learning, Cross-View Localization, Graph Neural Networks, Spatiotemporal Forecasting
-
+        keywords: Structured Representation Learning, Computer Vision, Multimodal Learning.
     Awards:
       - title: Outstanding Graduate of Beijing
         date: 2024
