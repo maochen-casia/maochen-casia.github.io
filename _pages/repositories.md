@@ -7,41 +7,30 @@ nav: true
 nav_order: 4
 ---
 
-{% if site.data.repositories.github_users %}
+{% assign github_user = site.data.repositories.github_user %}
 
-## GitHub users
+{% if github_user %}
 
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for user in site.data.repositories.github_users %}
-    {% include repository/repo_user.liquid username=user %}
-  {% endfor %}
-</div>
+[GitHub profile](https://github.com/{{ github_user }})
+
+{% endif %}
 
 ---
 
-{% if site.repo_trophies.enabled %}
-{% for user in site.data.repositories.github_users %}
-{% if site.data.repositories.github_users.size > 1 %}
+{% if site.data.repositories.repositories %}
 
-  <h4>{{ user }}</h4>
-  {% endif %}
-  <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% include repository/repo_trophies.liquid username=user %}
-  </div>
+## Selected Repositories
 
----
-
-{% endfor %}
-{% endif %}
-{% endif %}
-
-{% if site.data.repositories.github_repos %}
-
-## GitHub Repositories
-
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for repo in site.data.repositories.github_repos %}
-    {% include repository/repo.liquid repository=repo %}
+<div class="repositories">
+  {% for item in site.data.repositories.repositories %}
+    <div class="repository my-4">
+      <h3>
+        <a href="https://github.com/{{ item.repo }}" target="_blank" rel="noopener noreferrer">{{ item.name }}</a>
+      </h3>
+      <p>{{ item.description }}</p>
+      <p><code>{{ item.repo }}</code></p>
+    </div>
   {% endfor %}
 </div>
+
 {% endif %}

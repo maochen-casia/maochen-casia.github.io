@@ -1,9 +1,14 @@
-github_users:
-  - maochen-casia
+github_user: maochen-casia
 
-repo_description_lines_max: 2
+repositories:
+  - name: GFGA
+    repo: maochen-casia/gfga
+    description: Fine-Grained Multimodal Alignment for Image-Text Retrieval via Graph Learning.
 
-github_repos:
-  - maochen-casia/gfga
-  - maochen-casia/warg
-  - maochen-casia/CROSS
+  - name: WARG
+    repo: maochen-casia/warg
+    description: Globally Localizing Lunar Rover in Pixels via Graph Alignment.
+
+  - name: CROSS
+    repo: maochen-casia/CROSS
+    description: Learning Semantics, Structure, and Geometry from Cross-View Localization.
