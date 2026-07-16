@@ -27,6 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an M.S. student at the Institute of Automation, Chinese Academy of Sciences (CASIA), supervised by [Prof. Xu Yang](https://people.ucas.edu.cn/~XuYang). Before joining CASIA, I received my B.S. degree in Computer Science and Technology from Beihang University in 2024.
+I am an M.S. student at the **Institute of Automation, Chinese Academy of Sciences (CASIA)**, supervised by [Prof. Xu Yang](https://people.ucas.edu.cn/~XuYang). Before joining CASIA, I received my B.S. degree in Computer Science and Technology from **Beihang University** in 2024.
 
-My research focuses on structured representation learning for visual and multimodal data. I am especially interested in structural reasoning across time, modalities, and viewpoints.
+My research focuses on **structured representation learning** for visual and multimodal data. I am especially interested in structural reasoning across time, modalities, and viewpoints.

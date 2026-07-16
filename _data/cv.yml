@@ -1,205 +1,160 @@
-cv:
-  name: Mao Chen
-  label: M.S. Student
-  email: chenmao2024@ia.ac.cn
-  location: Beijing, China
-  image: ""
-  summary: I am currently an M.S. student at the Institute of Automation, Chinese Academy of Sciences (CASIA). My research focuses on structured representation learning for visual and multimodal data, with an emphasis on structural reasoning across time, modalities, and viewpoints.
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Mao Chen
+    - name: Email
+      value: <a href="mailto:chenmao2024@ia.ac.cn">chenmao2024@ia.ac.cn</a>
+    - name: Location
+      value: Beijing, China
+    - name: GitHub
+      value: <a href="https://github.com/maochen-casia">maochen-casia</a>
+    - name: Google Scholar
+      value: <a href="https://scholar.google.com/citations?user=pOzUtTsAAAAJ&hl=en">Profile</a>
 
-  social_networks:
-    - network: GitHub
-      username: maochen-casia
+- title: Research Interests
+  type: list
+  contents:
+    - Structured representation learning for visual and multimodal data
+    - Structural reasoning across time, modalities, and viewpoints
 
-  sections:
-    Education:
-      - institution: Institute of Automation, Chinese Academy of Sciences (CASIA)
-        location: Beijing, China
-        area: Pattern Recognition and Intelligent Systems
-        studyType: M.S.
-        start_date: 2024-09
-        end_date: 2027-06
-        highlights:
-          - "GPA: 3.97/4.00"
+- title: Education
+  type: time_table
+  contents:
+    - title: M.S. in Pattern Recognition and Intelligent Systems
+      institution: Institute of Automation, Chinese Academy of Sciences (CASIA), Beijing, China
+      year: 2024 -- 2027
+      description:
+        - "GPA: 3.97/4.00"
 
-      - institution: Beihang University
-        location: Beijing, China
-        area: Computer Science and Technology
-        studyType: B.S.
-        start_date: 2020-09
-        end_date: 2024-06
-        highlights:
-          - "GPA: 3.86/4.00"
+    - title: B.S. in Computer Science and Technology
+      institution: Beihang University, Beijing, China
+      year: 2020 -- 2024
+      description:
+        - "GPA: 3.86/4.00"
 
-    Publications:
-      - title: "More Than Where You Are: Learning Semantics, Structure, and Geometry from Cross-View Localization"
-        authors:
-          - Mao Chen
-          - Xiangkai Zhang
-          - Zhiyong Liu
-          - Chuankai Liu
-          - Xu Yang
-        publisher: arXiv preprint arXiv:2607.12429
-        releaseDate: 2026-07
-        url: https://arxiv.org/abs/2607.12429
-        summary: Under review for IEEE TPAMI.
+- title: Publications
+  type: time_table
+  contents:
+    - title: '<a href="https://arxiv.org/abs/2607.12429">More Than Where You Are: Learning Semantics, Structure, and Geometry from Cross-View Localization</a>'
+      institution: arXiv preprint arXiv:2607.12429; under review for IEEE TPAMI
+      year: 2026
+      description:
+        - M. Chen, X. Zhang, Z. Liu, C. Liu, X. Yang
 
-      - title: Globally Localizing Lunar Rover in Pixels via Graph Alignment
-        authors:
-          - Mao Chen
-          - Xu Yang
-          - Chuankai Liu
-          - Xiangkai Zhang
-          - Xiaoxue Wang
-          - Zheng Bo
-          - Zuoyu Zhang
-          - Zhiyong Liu
-        publisher: arXiv preprint arXiv:2606.10602
-        releaseDate: 2026-02
-        url: https://arxiv.org/abs/2606.10602
+    - title: '<a href="https://arxiv.org/abs/2606.10602">Globally Localizing Lunar Rover in Pixels via Graph Alignment</a>'
+      institution: arXiv preprint arXiv:2606.10602
+      year: 2026
+      description:
+        - M. Chen, X. Yang, C. Liu, X. Zhang, X. Wang, Z. Bo, Z. Zhang, Z. Liu
 
-      - title: Fusion of Depth and Semantics for Probabilistic Floorplan Localization
-        authors:
-          - Kecheng Ye
-          - Mao Chen
-          - Xiangkai Zhang
-          - Xu Yang
-        publisher: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)
-        releaseDate: 2026-02
+    - title: '<a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Ye_Fusion_of_Depth_and_Semantics_for_Probabilistic_Floorplan_Localization_CVPR_2026_paper.pdf">Fusion of Depth and Semantics for Probabilistic Floorplan Localization</a>'
+      institution: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)
+      year: 2026
+      description:
+        - K. Ye, M. Chen, X. Zhang, X. Yang
 
-      - title: Fine-Grained Multimodal Alignment for Image-Text Retrieval via Graph Learning
-        authors:
-          - Mao Chen
-          - Xiangkai Zhang
-          - Lu Qi
-          - Xiangtai Li
-          - Xu Yang
-          - Steven C. H. Hoi
-          - Zhiyong Liu
-          - Ming-Hsuan Yang
-        publisher: International Journal of Computer Vision (IJCV)
-        releaseDate: 2026-01
-        url: https://doi.org/10.1007/s11263-025-02686-y
+    - title: '<a href="https://doi.org/10.1007/s11263-025-02686-y">Fine-Grained Multimodal Alignment for Image-Text Retrieval via Graph Learning</a>'
+      institution: International Journal of Computer Vision (IJCV)
+      year: 2026
+      description:
+        - M. Chen, X. Zhang, L. Qi, X. Li, X. Yang, S. C. H. Hoi, Z. Liu, M. H. Yang
 
-      - title: Temporal-Aware Structure-Semantic-Coupled Graph Network for Traffic Forecasting
-        authors:
-          - Mao Chen
-          - Liangzhe Han
-          - Yi Xu
-          - Tongyu Zhu
-          - Jibin Wang
-          - Leilei Sun
-        publisher: Information Fusion
-        releaseDate: 2024-07
-        url: https://doi.org/10.1016/j.inffus.2024.102339
+    - title: '<a href="https://doi.org/10.1016/j.inffus.2024.102339">Temporal-Aware Structure-Semantic-Coupled Graph Network for Traffic Forecasting</a>'
+      institution: Information Fusion
+      year: 2024
+      description:
+        - M. Chen, L. Han, Y. Xu, T. Zhu, J. Wang, L. Sun
 
-      - title: "MFGCN: Multi-Faceted Spatial and Temporal-Specific Graph Convolutional Network for Traffic-Flow Forecasting"
-        authors:
-          - Jingwen Tian
-          - Liangzhe Han
-          - Mao Chen
-          - Yi Xu
-          - Zhuo Chen
-          - Tongyu Zhu
-          - Leilei Sun
-          - Weifeng Lv
-        publisher: Knowledge-Based Systems
-        releaseDate: 2024-12
-        url: https://doi.org/10.1016/j.knosys.2024.112671
+    - title: '<a href="https://doi.org/10.1016/j.knosys.2024.112671">MFGCN: Multi-Faceted Spatial and Temporal-Specific Graph Convolutional Network for Traffic-Flow Forecasting</a>'
+      institution: Knowledge-Based Systems
+      year: 2024
+      description:
+        - J. Tian, L. Han, M. Chen, Y. Xu, Z. Chen, T. Zhu, L. Sun, W. Lv
 
-      - title: Sampling Spatial-Temporal Attention Network for Traffic Forecasting
-        authors:
-          - Mao Chen
-          - Yi Xu
-          - Liangzhe Han
-          - Leilei Sun
-        publisher: International Conference on Knowledge Science, Engineering and Management (KSEM)
-        releaseDate: 2023-08
-        url: https://doi.org/10.1007/978-3-031-40286-9_11
+    - title: '<a href="https://doi.org/10.1007/978-3-031-40286-9_11">Sampling Spatial-Temporal Attention Network for Traffic Forecasting</a>'
+      institution: International Conference on Knowledge Science, Engineering and Management (KSEM)
+      year: 2023
+      description:
+        - M. Chen, Y. Xu, L. Han, L. Sun
 
-    Experience:
-      - company: CASIA
-        position: Learning Semantics, Structure, and Geometry from Cross-View Localization
-        location: Beijing, China
-        start_date: 2025
-        end_date: present
-        highlights:
-          - Investigating cross-view localization as a learning framework for stable semantics, reliable structure, and transferable geometry, leading to a completed paper under review for IEEE TPAMI.
-          - Proposed CROSS, a unified framework with 3D-grounded alignment, structure-aware matching, and hypothesis ranking, reducing localization error by up to 70% compared to state-of-the-art methods.
-          - Extended accurate localization to extreme lunar environments by proposing Warped Alignment of Reprojected Graphs (WARG), which models rover scenes as reprojected graphs for view-invariant spatial matching.
-          - Achieved 1.68 m localization error on the YuTu-2 dataset, significantly outperforming prior methods.
+- title: Research Experience
+  type: time_table
+  contents:
+    - title: Learning Semantics, Structure, and Geometry from Cross-View Localization
+      institution: CASIA
+      year: 2025 -- present
+      description:
+        - Investigated cross-view localization as a learning framework for stable semantics, reliable structure, and transferable geometry.
+        - Proposed CROSS, a unified framework with 3D-grounded alignment, structure-aware matching, and hypothesis ranking, reducing localization error by up to 70% compared to state-of-the-art methods.
+        - Proposed WARG for lunar rover localization, modeling rover scenes as reprojected graphs for view-invariant spatial matching.
+        - Achieved 1.68 m localization error on the YuTu-2 dataset, significantly outperforming prior methods.
 
-      - company: CASIA
-        position: Fine-Grained Multimodal Alignment via Graph Learning
-        location: Beijing, China
-        start_date: 2024
-        end_date: 2026
-        highlights:
-          - Addressed limitations in fine-grained multimodal alignment, including fragment-based fusion, redundant matching, and multimodal inconsistency.
-          - Proposed a graph-based alignment framework (GFGA) to model correspondences between visual regions and textual components.
-          - Enabled fine-grained cross-modal interaction and disambiguation through graph fusion and matching.
-          - Achieved state-of-the-art results on MS-COCO and Flickr30K, with a first-author publication in IJCV.
+    - title: Fine-Grained Multimodal Alignment via Graph Learning
+      institution: CASIA
+      year: 2024 -- 2026
+      description:
+        - Addressed limitations in fine-grained multimodal alignment, including fragment-based fusion, redundant matching, and multimodal inconsistency.
+        - Proposed GFGA to model correspondences between visual regions and textual components.
+        - Enabled fine-grained cross-modal interaction and disambiguation through graph fusion and matching.
+        - Achieved state-of-the-art results on MS-COCO and Flickr30K, with a first-author publication in IJCV.
 
-      - company: Beihang University
-        position: Graph Neural Networks for Dynamic Spatiotemporal Forecasting
-        location: Beijing, China
-        start_date: 2022
-        end_date: 2024
-        highlights:
-          - Investigated dynamic spatial-temporal dependencies in traffic systems, where static graph assumptions fail to capture evolving patterns.
-          - Developed structure-semantic coupled and multi-faceted graph learning frameworks for adaptive dependency modeling.
-          - Designed mechanisms for dynamic graph construction and temporal interaction, improving flexibility and robustness.
-          - Consistently improved prediction performance across benchmarks, contributing to publications in Information Fusion and Knowledge-Based Systems.
+    - title: Graph Neural Networks for Dynamic Spatiotemporal Forecasting
+      institution: Beihang University
+      year: 2022 -- 2024
+      description:
+        - Investigated dynamic spatial-temporal dependencies in traffic systems.
+        - Developed structure-semantic coupled and multi-faceted graph learning frameworks for adaptive dependency modeling.
+        - Designed mechanisms for dynamic graph construction and temporal interaction, improving flexibility and robustness.
+        - Improved prediction performance across benchmarks, contributing to publications in Information Fusion and Knowledge-Based Systems.
 
-    Skills:
-      - name: Programming Languages
-        icon: fa-solid fa-code
-        keywords: Python, Java, C
+- title: Skills
+  type: nested_list
+  contents:
+    - title: Programming Languages
+      items:
+        - Python
+        - Java
+        - C
+    - title: Mathematical Foundation
+      items:
+        - Linear Algebra
+        - Probability and Statistics
+        - Calculus
 
-      - name: Mathematical Foundation
-        icon: fa-solid fa-calculator
-        keywords: Linear Algebra, Probability and Statistics, Calculus
+- title: Languages
+  type: list
+  contents:
+    - Chinese (Native)
+    - English (IELTS 7.5)
 
-    Languages:
-      - name: Chinese
-        summary: Native
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        - Outstanding Graduate of Beijing (Top 5%)
+    - year: 2023
+      items:
+        - Academic Excellence Scholarship, Beihang University
+        - Innovation and Entrepreneurship Scholarship, Beihang University
+        - Student Leadership and Service Scholarship, Beihang University
+        - University Merit Student, Beihang University
+    - year: 2022
+      items:
+        - Academic Excellence Scholarship, Beihang University
+        - Student Leadership and Service Scholarship, Beihang University
+        - University Merit Student, Beihang University
+    - year: 2021
+      items:
+        - Academic Excellence Scholarship, Beihang University
+        - Student Leadership and Service Scholarship, Beihang University
+        - University Merit Student, Beihang University
 
-      - name: English
-        summary: IELTS 7.5
-
-    Interests:
-      - name: Research Interests
-        icon: fa-solid fa-tag
-        keywords: Structured Representation Learning, Computer Vision, Multimodal Learning.
-    Awards:
-      - title: Outstanding Graduate of Beijing
-        date: 2024
-        awarder: Beijing
-        summary: Top 5%.
-
-      - title: Academic Excellence Scholarship
-        date: 2023
-        awarder: Beihang University
-        summary: Awarded from 2021 to 2023.
-
-      - title: Innovation and Entrepreneurship Scholarship
-        date: 2023
-        awarder: Beihang University
-
-      - title: Student Leadership and Service Scholarship
-        date: 2023
-        awarder: Beihang University
-        summary: Awarded from 2021 to 2023.
-
-      - title: University Merit Student
-        date: 2023
-        awarder: Beihang University
-        summary: Awarded from 2021 to 2023.
-
-    References:
-      - name: Prof. Xu Yang
-        icon: fa-solid fa-envelope
-        reference: "Email: xu.yang@ia.ac.cn; Affiliation: Institute of Automation, Chinese Academy of Sciences"
-
-      - name: Prof. Lu Qi
-        icon: fa-solid fa-envelope
-        reference: "Email: luqi360@whu.edu.cn; Affiliation: Wuhan University & Insta360"
+- title: References
+  type: map
+  contents:
+    - name: Prof. Xu Yang
+      value: <a href="mailto:xu.yang@ia.ac.cn">xu.yang@ia.ac.cn</a>, Institute of Automation, Chinese Academy of Sciences
+    - name: Prof. Lu Qi
+      value: <a href="mailto:luqi360@whu.edu.cn">luqi360@whu.edu.cn</a>, Wuhan University & Insta360
