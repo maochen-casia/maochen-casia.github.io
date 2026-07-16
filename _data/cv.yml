@@ -1,189 +1,203 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Mao Chen
+  label: M.S. Student
+  email: chenmao2024@ia.ac.cn
+  location: Beijing, China
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: My research focuses on structured representation learning for visual and multimodal data, with an emphasis on structural reasoning across time, modalities, and viewpoints.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+      username: maochen-casia
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: Institute of Automation, Chinese Academy of Sciences (CASIA)
+        location: Beijing, China
+        area: Pattern Recognition and Intelligent Systems
+        studyType: M.S.
+        start_date: 2024-09
+        end_date: 2027-06
         highlights:
-          - Description 1.
-          - Description 2.
+          - "GPA: 3.97/4.00"
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Beihang University
+        location: Beijing, China
+        area: Computer Science and Technology
+        studyType: B.S.
+        start_date: 2020-09
+        end_date: 2024-06
         highlights:
-          - Description 1.
-          - Description 2.
-
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
-
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+          - "GPA: 3.86/4.00"
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: "More Than Where You Are: Learning Semantics, Structure, and Geometry from Cross-View Localization"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Mao Chen
+          - Xiangkai Zhang
+          - Zhiyong Liu
+          - Chuankai Liu
+          - Xu Yang
+        publisher: arXiv preprint arXiv:2607.12429
+        releaseDate: 2026-07
+        url: https://arxiv.org/abs/2607.12429
+        summary: Under review for IEEE TPAMI.
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: Globally Localizing Lunar Rover in Pixels via Graph Alignment
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - Mao Chen
+          - Xu Yang
+          - Chuankai Liu
+          - Xiangkai Zhang
+          - Xiaoxue Wang
+          - Zheng Bo
+          - Zuoyu Zhang
+          - Zhiyong Liu
+        publisher: arXiv preprint arXiv:2606.10602
+        releaseDate: 2026-02
+        url: https://arxiv.org/abs/2606.10602
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: Fusion of Depth and Semantics for Probabilistic Floorplan Localization
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Kecheng Ye
+          - Mao Chen
+          - Xiangkai Zhang
+          - Xu Yang
+        publisher: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)
+        releaseDate: 2026-02
+
+      - title: Fine-Grained Multimodal Alignment for Image-Text Retrieval via Graph Learning
+        authors:
+          - Mao Chen
+          - Xiangkai Zhang
+          - Lu Qi
+          - Xiangtai Li
+          - Xu Yang
+          - Steven C. H. Hoi
+          - Zhiyong Liu
+          - Ming-Hsuan Yang
+        publisher: International Journal of Computer Vision (IJCV)
+        releaseDate: 2026-01
+        url: https://doi.org/10.1007/s11263-025-02686-y
+
+      - title: Temporal-Aware Structure-Semantic-Coupled Graph Network for Traffic Forecasting
+        authors:
+          - Mao Chen
+          - Liangzhe Han
+          - Yi Xu
+          - Tongyu Zhu
+          - Jibin Wang
+          - Leilei Sun
+        publisher: Information Fusion
+        releaseDate: 2024-07
+        url: https://doi.org/10.1016/j.inffus.2024.102339
+
+      - title: "MFGCN: Multi-Faceted Spatial and Temporal-Specific Graph Convolutional Network for Traffic-Flow Forecasting"
+        authors:
+          - Jingwen Tian
+          - Liangzhe Han
+          - Mao Chen
+          - Yi Xu
+          - Zhuo Chen
+          - Tongyu Zhu
+          - Leilei Sun
+          - Weifeng Lv
+        publisher: Knowledge-Based Systems
+        releaseDate: 2024-12
+        url: https://doi.org/10.1016/j.knosys.2024.112671
+
+      - title: Sampling Spatial-Temporal Attention Network for Traffic Forecasting
+        authors:
+          - Mao Chen
+          - Yi Xu
+          - Liangzhe Han
+          - Leilei Sun
+        publisher: International Conference on Knowledge Science, Engineering and Management (KSEM)
+        releaseDate: 2023-08
+        url: https://doi.org/10.1007/978-3-031-40286-9_11
+
+    Research Experience:
+      - company: CASIA
+        position: Learning Semantics, Structure, and Geometry from Cross-View Localization
+        location: Beijing, China
+        start_date: 2025
+        end_date: present
+        highlights:
+          - Investigating cross-view localization as a learning framework for stable semantics, reliable structure, and transferable geometry, leading to a completed paper under review for IEEE TPAMI.
+          - Proposed CROSS, a unified framework with 3D-grounded alignment, structure-aware matching, and hypothesis ranking, reducing localization error by up to 70% compared to state-of-the-art methods.
+          - Extended accurate localization to extreme lunar environments by proposing Warped Alignment of Reprojected Graphs (WARG), which models rover scenes as reprojected graphs for view-invariant spatial matching.
+          - Achieved 1.68 m localization error on the YuTu-2 dataset, significantly outperforming prior methods.
+
+      - company: CASIA
+        position: Fine-Grained Multimodal Alignment via Graph Learning
+        location: Beijing, China
+        start_date: 2024
+        end_date: 2026
+        highlights:
+          - Addressed limitations in fine-grained multimodal alignment, including fragment-based fusion, redundant matching, and multimodal inconsistency.
+          - Proposed a graph-based alignment framework (GFGA) to model correspondences between visual regions and textual components.
+          - Enabled fine-grained cross-modal interaction and disambiguation through graph fusion and matching.
+          - Achieved state-of-the-art results on MS-COCO and Flickr30K, with a first-author publication in IJCV.
+
+      - company: Beihang University
+        position: Graph Neural Networks for Dynamic Spatiotemporal Forecasting
+        location: Beijing, China
+        start_date: 2022
+        end_date: 2024
+        highlights:
+          - Investigated dynamic spatial-temporal dependencies in traffic systems, where static graph assumptions fail to capture evolving patterns.
+          - Developed structure-semantic coupled and multi-faceted graph learning frameworks for adaptive dependency modeling.
+          - Designed mechanisms for dynamic graph construction and temporal interaction, improving flexibility and robustness.
+          - Consistently improved prediction performance across benchmarks, contributing to publications in Information Fusion and Knowledge-Based Systems.
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Programming Languages
+        icon: fa-solid fa-code
+        keywords: Python, Java, C
+
+      - name: Mathematical Foundation
+        icon: fa-solid fa-calculator
+        keywords: Linear Algebra, Probability and Statistics, Calculus
 
     Languages:
-      - name: German
-        summary: "Native speaker"
+      - name: Chinese
+        summary: Native
 
       - name: English
-        summary: "Fluent"
+        summary: IELTS 7.5
 
     Interests:
-      - name: Physics
+      - name: Research Interests
         icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: Structured Representation Learning, Computer Vision, Multimodal Learning, Cross-View Localization, Graph Neural Networks, Spatiotemporal Forecasting
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+    Awards & Honors:
+      - title: Outstanding Graduate of Beijing
+        date: 2024
+        awarder: Beijing
+        summary: Top 5%.
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+      - title: Academic Excellence Scholarship
+        date: 2021-2023
+        awarder: Beihang University
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - title: Innovation and Entrepreneurship Scholarship
+        date: 2023
+        awarder: Beihang University
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+      - title: Student Leadership and Service Scholarship
+        date: 2021-2023
+        awarder: Beihang University
+
+      - title: University Merit Student
+        date: 2021-2023
+        awarder: Beihang University
 
     References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Prof. Xu Yang
+        icon: fa-solid fa-envelope
+        reference: "Email: xu.yang@ia.ac.cn; Affiliation: Institute of Automation, Chinese Academy of Sciences"
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Prof. Lu Qi
+        icon: fa-solid fa-envelope
+        reference: "Email: luqi360@whu.edu.cn; Affiliation: Wuhan University & Insta360"
